@@ -24,4 +24,4 @@ EXPOSE 8080
 COPY src .
 
 # exectute start up script
-ENTRYPOINT ["python3", "mainDocker.py"]
+ENTRYPOINT ["python3", "main.py"]
