@@ -1,5 +1,5 @@
 sudo yum install git –y
-sudo git clone https://github.com/koyakash/PracticeDemo.git
+sudo git clone https://github.com/kotakash/PracticeDemo.git
 cd PracticeDemo/
 sudo sh setup.sh
 sudo docker-compose up
